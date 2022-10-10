@@ -25,3 +25,5 @@ The sub-images will be named as [SourceImageName_centerY_centerX]
     </td>
   </tr>
 </table>
+
+### 3. Press Space to next picture and Esc to exit.
